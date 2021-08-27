@@ -34,7 +34,7 @@ class RazorpayImplState extends State<RazorpayImpl> {
 
   void openCheckout() async{
     var options = {
-      'key': 'rzp_test_Cnt8xOyxxKL0sZ',
+      'key': 'RAZORPAY_API_KEY',
       'amount': totalAmt*100,
       'name': 'CottonSeedOP',
       'description': 'Payment',
