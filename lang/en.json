@@ -1,0 +1,130 @@
+{
+	"slogan": "Farmer is the only Man in our Economy who buys everything at Retail, sells everything at Wholesale, and pays the Freight Both ways",
+	"farmerbut":"FARMER",
+	"customerbut":"CUSTOMER",
+	"welcomeMessage":"WELCOME TO SEED-CULTURE!",
+
+
+	"floginmsg1":"Login as Farmer",
+	"floginmsg2":"Login using your Account",
+	"fbbut":"LOGIN WITH FACEBOOK",
+	"twitterbut":"LOGIN WITH TWITTER",
+	"loginbut":"LOGIN",
+	"ftextbox1":"Phone Number",
+	"ftextbox2":"Password",
+	"ftextbox1onc":"Enter your Phone Number",
+	"ftextbox2onc":"Enter your Password",
+	"phnreq":"Phone Number is Required",
+	"passreq":"Password is Required",
+	"noacc":"Don't have an Account yet?",
+	"createacc":"Create Account",
+
+
+	"fsigninmsg3":"Create Farmer Account",
+	
+	"or":"OR",
+	"fsignuptext1":"Full Name",
+	"fsignuptext2":"Aadhar Number",
+	"fsignuptext3":"Contact Number",
+	"fsignuptext4":"Password",
+	"fsignuptext1onc":"Enter your Full Name",
+	"fsignuptext2onc":"Enter your Aadhar Number",
+	"fsignuptext3onc":"Enter your Contact Number",
+	"fsignuptext4onc":"Enter your Password",
+	"namereq":"Name is Required",
+	"aadharreq":"Aadhar Number is Required",
+	"contactreq":"Contact Number is Required",
+	"createbut":"CREATE ACCOUNT",
+	"fsigninmsg4":"By Signing up,you agree to the Terms of Service",
+
+
+	"admsg5":"Additional Details",
+	"adtxtb1":"Farmer Certificate Number",
+	"adtxtb1onc":"Enter your Certificate Number",
+	"certnoreq":"Certificate Number is Required",
+	"adtxtb2":"Date of Birth",
+	"adtxtb2onc":"Enter your DOB",
+	"dobreq":"Date of Birth is Required",
+	"adtxtb3":"City",
+	"adtxtb3onc":"Enter your City",
+	"cityreq":"City is Required",
+	"adtxtb4":"State",
+	"adtxtb4onc":"Enter your State",
+	"statereq":"State is Required",
+	"adtxtb5":"Land Size(in Acres)",
+	"adtxtb5onc":"Enter your farm Size",
+	"lsizereq":"Farm Size is Required",
+	"submitbut":"Submit",
+
+
+	"cloginmsg1":"Login as Customer",
+	"cloginmsg2":"Login using your Account",
+	"loginbut":"LOGIN",
+	"ltextbox1":"Username",
+	"ltextbox2":"Password",
+	"ltextbox1onc":"Enter your Username",
+	"userreq":"Username is Required",
+
+
+	"lsigninmsg3":"Create Customer Account",
+	"lsignuptext2":"Email Address",
+	"lsignuptext2onc":"Enter your Email Address",
+	"emailreq":"Email Address is Required",
+
+	"fdbar":"Home",
+	"dmsgfarmer":"STATS AT GLANCE",
+	"dmsg2farmer":"FOR YOU",
+	"pr":"Profit",
+	"prod":"Products",
+	"growth":"Agro Growth",
+	"production":"Production",
+	"wbut":"Warehouse",
+	"spbut":"Sell Products",
+
+
+	"admsg5":"Product Details",
+	"pdtxtb1":"Crop Name",
+	"pdtxtb1onc":"Enter Crop Name",
+	"cropnamereq":"Crop Name is Required",
+	"pdtxtb2":"Quantity",
+	"pdtxtb2onc":"Enter the Quantity",
+	"qreq":"Quantity is Required",
+	"pdtxtb3":"Price",
+	"pdtxtb3onc":"Enter the Cost",
+	"costreq":"Cost is Required",
+	"pdsubmitbut":"Submit",
+
+
+	"fdrawer1":"Welcome",
+	"fdrawer2":"Account",
+	"fdrawer3":"Transaction Details",
+	"fdrawer4":"Tracking",
+	"fdrawer5":"Log Out",
+
+
+	"cdmsg":"Welcome",
+	"picon":"Products",
+	"pdesc":"List of Products",
+	"picon2":"Purchase",
+	"p2desc":"Cotton Seeds",
+	"picon3":"View",
+	"pdesc3":"Cart",
+
+
+	"plistmsg":"Product Listing",
+	"plistmsg2":"Cotton Seeds",
+
+
+	"cdrawer1":"Welcome",
+	"cdrawer2":"Account",
+	"cdrawer3":"Transaction Details",
+	"cdrawer4":"Tracking",
+	"cdrawer5":"Log Out",
+
+	"accdetailsmsg":"Account Details",
+	"name":"Name",
+	"ano":"Aadhar Number",
+	"pno":"Phone Number",
+
+	
+}

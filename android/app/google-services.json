@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812948884646",
+    "project_id": "cottonseed-7420c",
+    "storage_bucket": "cottonseed-7420c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812948884646:android:c884642753cb8084d77867",
+        "android_client_info": {
+          "package_name": "com.example.farmerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812948884646-tnteqhe38pc83j7t7i8qhjsuuf7c3u8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsIlFb-YMBAat5GJ-z3p07pt0_0spQ0FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812948884646-tnteqhe38pc83j7t7i8qhjsuuf7c3u8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
